@@ -1,0 +1,8 @@
+{
+  "name": "Dolar Price",
+  "description": "Argentine Dollar price",
+  "uuid": "valentinodefelice@gmail.com",
+  "shell-version": [
+    "3.36"
+  ]
+}
